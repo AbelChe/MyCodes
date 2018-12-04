@@ -1,3 +1,6 @@
+//采用邻接矩阵表示无向图，完成图的创建、图的深度优先遍历、图的广度优先遍历操作。
+//其中图的顶点信息是字符型，图中顶点序号按字符顺序排列
+
 #include<iostream>
 using namespace std;
 const int MaxSize=10;

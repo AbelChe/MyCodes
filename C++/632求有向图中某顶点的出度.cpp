@@ -1,3 +1,5 @@
+//设计有向图的结构，其中图的顶点为字符型，求该有向图中某顶点的出度。
+//要求键盘输入图中顶点的个数，边的条数，顶点的信息，边的组成等
 #include<iostream>
 using namespace std;
 const int MaxSize = 10;

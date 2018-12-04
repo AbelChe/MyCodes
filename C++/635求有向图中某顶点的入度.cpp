@@ -1,3 +1,6 @@
+//创建一个有向图结构，求某顶点的入度。要求有向图的顶点个数，边的条数，
+//顶点的数据，各条边都由键盘读入，顶点的数据类型为字符型
+
 #include<iostream>
 using namespace std;
 const int MaxSize = 10;
